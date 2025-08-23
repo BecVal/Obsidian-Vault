@@ -5,3 +5,5 @@ Cree una nota de algo, [[cree un enlace]], o pruebe [el Importador](https://help
 Cuando esté listo, borre esta nota y aprópiese de la bóveda
 
 Aqui estuvo César realizando prueba uno de github. 
+
+Aqui estuvo cesar desde fedora linux prueba dos
