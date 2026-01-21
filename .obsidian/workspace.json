@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26b0334977b372ff",
+        "id": "2eeb08d8ff6d6ace",
         "type": "tabs",
         "children": [
           {
-            "id": "b845c5af8875133e",
+            "id": "f5ad8d92399e2aaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "279416c7625b4660",
@@ -224,20 +225,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "f5ad8d92399e2aaf",
   "lastOpenFiles": [
+    "Data Structures and Graphs.md",
+    "Sin título.canvas",
+    "Probabilidad 1.md",
     "Sin título.base",
     "Sin título 1.canvas",
-    "Sin título.canvas",
     "Sin título 5.canvas",
     "Sin título 3.base",
     "2026-01-20.md",
     "Recording 20260120203325.m4a",
     "Sin título 4.canvas",
-    "Probabilidad 1.md",
     "Sin título 3.canvas",
     "Sin título 2.canvas",
-    "Data Structures and Graphs.md",
     "Álgebra Lineal I.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
