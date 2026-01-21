@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09f2f4561fbdab3a",
+        "id": "26b0334977b372ff",
         "type": "tabs",
         "children": [
           {
-            "id": "373b2be9ff052754",
+            "id": "b845c5af8875133e",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Sin título 3.base",
-                "viewName": "Tabla"
-              },
-              "icon": "lucide-table",
-              "title": "Sin título 3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -74,8 +71,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2af4f3c830b17026",
@@ -228,17 +224,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "373b2be9ff052754",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
-    "2026-01-20.md",
+    "Sin título.base",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Sin título 5.canvas",
     "Sin título 3.base",
+    "2026-01-20.md",
     "Recording 20260120203325.m4a",
     "Sin título 4.canvas",
     "Probabilidad 1.md",
     "Sin título 3.canvas",
     "Sin título 2.canvas",
     "Data Structures and Graphs.md",
-    "Sin título 1.canvas",
     "Álgebra Lineal I.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
@@ -278,7 +277,6 @@
     "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
     "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
     "Business/Journal/Technical/Technical/Self-Improvement",
-    "Business/Journal/Technical/Snippet/Contents",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
