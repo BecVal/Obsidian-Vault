@@ -25,14 +25,17 @@
             "id": "64f75bc9941a6b66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mapa de Cálculo.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mapa de Cálculo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título 2"
             }
           }
         ],
@@ -245,25 +248,25 @@
   },
   "active": "64f75bc9941a6b66",
   "lastOpenFiles": [
-    "Algoritmo vs Estructura de Datos.md",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título.base",
+    "Sin título.canvas",
     "Data Structures and Graphs.md",
+    "Mapa de Cálculo.md",
+    "Algoritmo vs Estructura de Datos.md",
     "Arreglo (Array).md",
     "Mapa De Estructuras de Datos.md",
-    "Mapa de Cálculo.md",
     "Tipo de Dato Abstracto (ADT).md",
     "La Derivada.md",
     "Límite Matemático.md",
     "Probabilidad 1.md",
     "Recording 20260120203325.m4a",
-    "Sin título.base",
-    "Sin título 1.canvas",
-    "Sin título.canvas",
     "Sin título 5.canvas",
     "Sin título 3.base",
     "2026-01-20.md",
     "Sin título 4.canvas",
     "Sin título 3.canvas",
-    "Sin título 2.canvas",
     "Álgebra Lineal I.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
@@ -279,7 +282,6 @@
     "publish the Obsidian Vid.md",
     "Business/Journal/2025-02-15 - todays.md",
     "Business/Journal/2025-02-14.md",
-    "Blue/Common Issues/Everymessage, check documents being generated or not, Unproduced Welcome Letters.md",
     "Blog",
     "Vlog",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
