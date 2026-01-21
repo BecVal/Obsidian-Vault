@@ -259,7 +259,25 @@
     "me/mind": 5,
     "me/habbits": 6,
     "how": 73,
-    "Capitulo": 74
+    "Capitulo": 74,
+    "mapa": 75,
+    "matemáticas": 76,
+    "universidad": 77,
+    "universidad/cálculo": 1,
+    "átomo": 78,
+    "concepto": 79,
+    "cálculo": 80,
+    "cálculo/diferencial": 1,
+    "MOC": 81,
+    "estructuras-datos": 82,
+    "java": 83,
+    "definición": 84,
+    "teoría": 85,
+    "poo": 86,
+    "diseño": 87,
+    "ingeniería-software": 88,
+    "estructura-datos": 89,
+    "memoria-contigua": 90
   },
   "_version": 3
 }
