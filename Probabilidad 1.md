@@ -21,4 +21,4 @@ Los temas fundamentales incluyen:
 7. Introducción a **convergencia de variables aleatorias** y teoremas fundamentales (Ley de los grandes números, Teorema Central del Límite).
     
 
-La idea central es desarrollar un **lenguaje matemático sólido** que permita describir fenómenos aleatorios y sentar las bases para cursos posteriores de **Probabilidad II, Procesos Estocásticos y Estadística**.
+La idea central es desarrollar un **lenguaje matemático sólido** que permita describir fenómenos aleatorios y sentar las bases para cursos posteriores de **Probabilidad II, Procesos Estocásticos y Estadística**. [[Álgebra Lineal I]]

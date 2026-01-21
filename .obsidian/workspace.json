@@ -8,45 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "011cfface5dc3c6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "9c87d1132cd43d79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
             "id": "373b2be9ff052754",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Álgebra Lineal I.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título 3.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "Álgebra Lineal I"
+              "icon": "lucide-table",
+              "title": "Sin título 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -100,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2af4f3c830b17026",
@@ -202,9 +177,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "06d7788d2b7877a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "2a5073634fabf08a",
@@ -232,18 +217,29 @@
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
+      "bases:Crear nueva base": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "audio-recorder:Iniciar/Detener la grabación": false,
-      "bases:Crear nueva base": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "373b2be9ff052754",
   "lastOpenFiles": [
+    "2026-01-20.md",
+    "Sin título 3.base",
+    "Recording 20260120203325.m4a",
+    "Sin título 4.canvas",
+    "Probabilidad 1.md",
+    "Sin título 3.canvas",
+    "Sin título 2.canvas",
+    "Data Structures and Graphs.md",
+    "Sin título 1.canvas",
+    "Álgebra Lineal I.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
     "Technical/Home/DASH.md",
@@ -281,15 +277,8 @@
     "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
     "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
     "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
-    "Business/Journal/Technical/Vlog/an alternative to every apple application lacking in ios 18.md",
-    "Business/Journal/Technical/Vlog/Why not ipad anymore.md",
-    "Business/Journal/Technical/Vlog/Why did I settle on Bear.md",
-    "Business/Journal/Technical/Vlog/Why Apple Native apps have higher quality.md",
-    "Business/Journal/Technical/Vlog/Vlog Idea next in pipeline.md",
     "Business/Journal/Technical/Technical/Self-Improvement",
     "Business/Journal/Technical/Snippet/Contents",
-    "Business/Journal/Technical/Plans/Journal",
-    "Business/Journal/Technical/Migrated/assets",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
