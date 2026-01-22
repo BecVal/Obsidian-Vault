@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Derivada.md",
-                "mode": "source",
+                "file": "Java Syntax.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Derivada"
+              "title": "Java Syntax"
             }
           }
         ],
@@ -245,11 +245,15 @@
   },
   "active": "64f75bc9941a6b66",
   "lastOpenFiles": [
+    "Java.md",
+    "Java Syntax.md",
+    "Mapa De Estructuras de Datos.md",
     "Mapa de Cálculo.md",
     "Lista Enlazada.md",
-    "Mapa De Estructuras de Datos.md",
-    "Objeto (Programación).md",
     "Arreglo (Array).md",
+    "Continuidad de Funciones.md",
+    "La Derivada.md",
+    "Objeto (Programación).md",
     "Probabilidad 1.md",
     "Tipo de Dato Abstracto (ADT).md",
     "Sin título 2.canvas",
@@ -262,7 +266,6 @@
     "Sin título.canvas",
     "Data Structures and Graphs.md",
     "Algoritmo vs Estructura de Datos.md",
-    "La Derivada.md",
     "Límite Matemático.md",
     "Recording 20260120203325.m4a",
     "Sin título 5.canvas",
@@ -280,9 +283,6 @@
     "Technical/Technical/SQLite vs SQL Server.md",
     "Technical/Technical/API Authentications.md",
     "Blue/Snippets/SQL Script Disposable Income.md",
-    "Journal/Blue/Journal/2024-06-14.md",
-    "Technical/Technical/Idempotency in rest api.md",
-    "publish the Obsidian Vid.md",
     "Blog",
     "Vlog",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",

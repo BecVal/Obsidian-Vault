@@ -17,8 +17,8 @@ Para gestionar la complejidad, no manipulamos bits directamente, sino que usamos
 
 ## 3. Estructuras Lineales Básicas
 Comparativa de rendimiento y uso:
-- **[[Arreglo (Array)]]**: Acceso rápido, tamaño fijo.
-- **[[Lista Enlazada]]**: Tamaño dinámico, acceso lento.
+- [[Arreglo (Array)]]: Acceso rápido, tamaño fijo.
+- [[Lista Enlazada]]: Tamaño dinámico, acceso lento.
 
 ---
 ### 📚 Referencias
