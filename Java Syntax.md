@@ -48,7 +48,7 @@ Datos atómicos almacenados directamente en la pila de ejecución (_Stack_). Son
 
 Variables que almacenan direcciones de memoria (punteros gestionados) que apuntan a objetos en el _Heap_.
 
-```
+```java
 String cadena = "Inmutable"; // Instancia de la clase String
 int[] vector = new int[5];   // Los arrays son objetos en Java
 ```
@@ -59,7 +59,7 @@ Estructuras que alteran el contador de programa (PC) para romper la ejecución s
 
 ### Bifurcación Condicional
 
-```
+```java
 if (condicion_booleana) {
     // Rama True
 } else {
@@ -79,7 +79,7 @@ int x = (a > b) ? a : b;
 - **Iterador (`for-each`):** Abstracción sintáctica para recorrer colecciones (`Iterable`).
     
 
-```
+```java
 // Sintaxis "Enhanced For-Loop"
 for (String elemento : listaDeStrings) {
     procesar(elemento);
@@ -90,7 +90,7 @@ for (String elemento : listaDeStrings) {
 
 En Java, las funciones son ciudadanos de segunda clase; deben pertenecer a una clase.
 
-```
+```java
 // [Modificadores] [Tipo Retorno] [Identificador] ([Parámetros Formales])
 public static double calcularEntropia(double[] probabilidades) {
     if (probabilidades == null) return 0.0; // Cláusula de guarda
@@ -113,7 +113,7 @@ public static double calcularEntropia(double[] probabilidades) {
 
 Mecanismo para manejar anomalías en tiempo de ejecución interrumpiendo el flujo normal.
 
-```
+```java
 try {
     // Código propenso a fallos (I/O, Red, Aritmética)
 } catch (IOException e) {
