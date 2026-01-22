@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5598574cacbf34",
+        "id": "2eeb08d8ff6d6ace",
         "type": "tabs",
         "children": [
           {
-            "id": "a68b9151479d8234",
+            "id": "f5ad8d92399e2aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapa De Estructuras de Datos.md",
+                "file": "Mapa de Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa De Estructuras de Datos"
-            }
-          },
-          {
-            "id": "64f75bc9941a6b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Syntax.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Syntax"
+              "title": "Mapa de Machine Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "279416c7625b4660",
@@ -243,36 +229,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64f75bc9941a6b66",
+  "active": "f5ad8d92399e2aaf",
   "lastOpenFiles": [
-    "Java.md",
-    "La Derivada.md",
     "Java Syntax.md",
+    "Python.md",
+    "Mapa de Machine Learning.md",
     "Mapa De Estructuras de Datos.md",
     "Mapa de Cálculo.md",
-    "Lista Enlazada.md",
-    "Arreglo (Array).md",
-    "Continuidad de Funciones.md",
     "Objeto (Programación).md",
-    "Probabilidad 1.md",
-    "Tipo de Dato Abstracto (ADT).md",
-    "Sin título 2.canvas",
-    "Sin título 1.canvas",
-    "Nuevo Documento de texto.txt",
-    "Sin nombre 1",
-    "Sin nombre",
+    "Lista Enlazada.md",
+    "Java.md",
+    "Continuidad de Funciones.md",
     "conflict-files-obsidian-git.md",
-    "Sin título.base",
-    "Sin título.canvas",
-    "Data Structures and Graphs.md",
-    "Algoritmo vs Estructura de Datos.md",
+    "Tipo de Dato Abstracto (ADT).md",
     "Límite Matemático.md",
-    "Recording 20260120203325.m4a",
+    "La Derivada.md",
+    "Arreglo (Array).md",
+    "Algoritmo vs Estructura de Datos.md",
+    "Data Structures and Graphs.md",
+    "Sin título.canvas",
+    "Probabilidad 1.md",
+    "Sin título.base",
+    "Sin título 1.canvas",
     "Sin título 5.canvas",
     "Sin título 3.base",
     "2026-01-20.md",
+    "Recording 20260120203325.m4a",
     "Sin título 4.canvas",
     "Sin título 3.canvas",
+    "Sin título 2.canvas",
     "Álgebra Lineal I.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
@@ -281,8 +266,6 @@
     "Technical/Technical/Azure Cache for Redis (Pluralsight).md",
     "Main Dash.md",
     "Technical/Technical/SQLite vs SQL Server.md",
-    "Technical/Technical/API Authentications.md",
-    "Blue/Snippets/SQL Script Disposable Income.md",
     "Blog",
     "Vlog",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
@@ -297,6 +280,9 @@
     "Business/Journal/Technical/Migrated/assets/image 2.png",
     "Business/Journal/Technical/Migrated/assets/Brand.psd",
     "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
+    "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
+    "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
+    "Business/Journal/Technical/Technical/Self-Improvement",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
